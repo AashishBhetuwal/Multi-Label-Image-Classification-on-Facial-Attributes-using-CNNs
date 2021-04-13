@@ -1,0 +1,2 @@
+# Multi-Label-Image-Classification-on-Facial-Attributes-using-CNNs
+In machine learning, Classification is a type of supervised learning. classification refers to a predictive modeling problem where a class label is predicted for a given input sample. It specifies the class to which data point belongs to and is best used when the output has finite and discrete values. There are 4 types of classification tasks that you encounter, they are. Binary Classification, Multiclass Classification, MultiLabel Classification, Imbalanced classification.
